@@ -1,0 +1,93 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co.com/mvwcPCZ/food-1.webp",
+      "recipe_id": "1",
+      "recipe_name": "Grilled Chicken Salad",
+      "short_description": "A healthy and flavorful salad with grilled chicken, fresh greens, and a zesty dressing.",
+      "ingredients": [
+        "200 g chicken breast",
+        "100 g mixed greens",
+        "50 g cherry tomatoes",
+        "30 ml olive oil",
+        "10 ml lemon juice"
+      ],
+      "preparing_time": 30,
+      "calories": 350
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/4Y7ZVHC/food-2.webp",
+      "recipe_id": "2",
+      "recipe_name": "Pasta Carbonara",
+      "short_description": "A classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+      "ingredients": [
+        "200 g spaghetti",
+        "100 g pancetta",
+        "50 g Parmesan cheese",
+        "2 large eggs",
+        "1 clove garlic"
+      ],
+      "preparing_time": 25,
+      "calories": 450
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/xXCLTBx/food-3.webp",
+      "recipe_id": "3",
+      "recipe_name": "Beef Stir-Fry",
+      "short_description": "A quick and easy stir-fry with tender beef, vegetables, and soy sauce.",
+      "ingredients": [
+        "250 g beef strips",
+        "100 g bell peppers",
+        "50 g onions",
+        "30 ml soy sauce",
+        "10 g ginger"
+      ],
+      "preparing_time": 20,
+      "calories": 400
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/xHZMB1w/food-4.webp",
+      "recipe_id": "4",
+      "recipe_name": "Vegetable Soup",
+      "short_description": "A hearty soup with mixed vegetables, herbs, and a vegetable broth.",
+      "ingredients": [
+        "100 g carrots",
+        "100 g potatoes",
+        "50 g celery",
+        "500 ml vegetable broth",
+        "10 g parsley"
+      ],
+      "preparing_time": 40,
+      "calories": 200
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/yqDLzR8/food-5.webp",
+      "recipe_id": "5",
+      "recipe_name": "Chocolate Chip Cookies",
+      "short_description": "Crispy on the outside, chewy on the inside, classic chocolate chip cookies.",
+      "ingredients": [
+        "200 g flour",
+        "100 g sugar",
+        "100 g butter",
+        "100 g chocolate chips",
+        "1 large egg"
+      ],
+      "preparing_time": 15,
+      "calories": 300
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/TBN2JGQ/food-6.webp",
+      "recipe_id": "6",
+      "recipe_name": "Mango Smoothie",
+      "short_description": "A refreshing and sweet smoothie made with ripe mangoes and yogurt.",
+      "ingredients": [
+        "200 g mango",
+        "100 ml yogurt",
+        "50 ml milk",
+        "10 g honey",
+        "5 ice cubes"
+      ],
+      "preparing_time": 10,
+      "calories": 250
+    }
+  ]
+  
